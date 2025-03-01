@@ -1,6 +1,0 @@
-import("//build/ohos.gni")
-group("app_test"){
-    deps = [
-        "demo_test:demo_test",
-    ]
-}
