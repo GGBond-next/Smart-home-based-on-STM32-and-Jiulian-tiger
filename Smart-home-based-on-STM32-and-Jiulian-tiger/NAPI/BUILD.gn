@@ -1,0 +1,6 @@
+import("//build/ohos.gni")
+group("app_napi"){
+    deps = [
+        "appnapis:appnapis",
+    ]
+}
